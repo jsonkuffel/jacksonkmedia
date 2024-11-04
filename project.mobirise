@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jackson K Media",
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -768,16 +768,16 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-2-1-20-56-37.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-10-1-14-28.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/wZsTDtnJUwA?si=J8ixYbSxNJGNwSo0",
+                "videoUrl": "https://youtu.be/viXfMlji1ew",
                 "image": "@PROJECT_PATH@/assets/images/background1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -807,16 +807,16 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-2-1-20-58-37.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-10-1-15-16-52.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/iv0946lSiZs?si=i9xhkaPntWEe2Uk_",
+                "videoUrl": "https://youtu.be/tlHTi9zNJiU",
                 "image": "@PROJECT_PATH@/assets/images/background4.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background4.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1731,19 +1731,6 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-2-1-20-58-37.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/tlHTi9zNJiU",
-                "image": "@PROJECT_PATH@/assets/images/thumbnail.png",
-                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-2-1-20-58-2.jpg",
                 "playVideo": true,
@@ -1757,12 +1744,25 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-2-1-22-42-11.jpg",
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-10-1-15-16-52.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/tlHTi9zNJiU",
+                "image": "@PROJECT_PATH@/assets/images/thumbnail.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-10-1-15-18-3.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/i-isKO3rA7k",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-1-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
